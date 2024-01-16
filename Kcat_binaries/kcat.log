@@ -1,0 +1,8 @@
+﻿  tools.c
+  format.c
+  kcat.c
+  input.c
+  getdelim.c
+  wingetopt.c
+  Generating Code...
+  kcat.vcxproj -> C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\kcat.exe

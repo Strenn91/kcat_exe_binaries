@@ -1,0 +1,10 @@
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\kcat.vcxproj.CopyComplete
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\kcat.exe
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\libcrypto-1_1-x64.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\librdkafka.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\librdkafkacpp.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\libssl-1_1-x64.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\msvcp140.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\vcruntime140.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\zlib1.dll
+C:\Users\cl660\Downloads\kcat-master\win32\x64\Debug\zstd.dll
